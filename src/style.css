@@ -199,25 +199,25 @@ button {
 	height: 0.5rem;
 }
 
-#id28 { --idColor: var(--yellow);}
-#id12 { --idColor: var(--red);}
-#id16 { --idColor: var(--green);}
-#id35 { --idColor: var(--lightBlue);}
-#id80 { --idColor: var(--darkBlue);}
-#id99 { --idColor: var(--purple-dark-1);}
-#id18 { --idColor: var(--purple-medium-1);}
-#id10751 { --idColor: var(--yellow);}
-#id14 { --idColor: var(--red);}
-#id36 { --idColor: var(--green);}
-#id27 { --idColor: var(--lightBlue);}
-#id10402 { --idColor: var(--darkBlue);}
-#id9648 { --idColor: var(--purple-dark-1);}
-#id10749 { --idColor: var(--purple-medium-1);}
-#id878 { --idColor: var(--yellow);}
-#id10770 { --idColor: var(--red);}
-#id53 { --idColor: var(--green);}
-#id10752 { --idColor: var(--lightBlue);}
-#id37 { --idColor: var(--darkBlue)}
+#id28 { --idColor: tomato;}
+#id12 { --idColor: aqua;}
+#id16 { --idColor: orange;}
+#id35 { --idColor: Black;}
+#id80 { --idColor: Blue;}
+#id99 { --idColor: Coral;}
+#id18 { --idColor: CornflowerBlue;}
+#id10751 { --idColor: darkBlue;}
+#id14 { --idColor: purple;}
+#id36 { --idColor: darkGreen;}
+#id27 { --idColor: DeepSkyBlue;}
+#id10402 { --idColor: red;}
+#id9648 { --idColor: Crimson;}
+#id10749 { --idColor: Cyan;}
+#id878 { --idColor: Brown;}
+#id10770 { --idColor: Chocolate;}
+#id53 { --idColor: Bisque;}
+#id10752 { --idColor: Beige;}
+#id37 { --idColor: AntiqueWhite;}
 
 .genericList-container {
 	display: flex;
@@ -371,9 +371,9 @@ button {
 }
 
 .header-container--log {
-	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR40JBsICSbPMmyO3ay5aokQzXXoZ7b5CfziA&s");
-	background: linear-gradient(180deg, rgba(0,0,0,0.35) 19.27%, rgba(0,0,0,0) 29.17%), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR40JBsICSbPMmyO3ay5aokQzXXoZ7b5CfziA&s");
-	background-size: cover;
+	background-image: url("https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg");
+	background: linear-gradient(180deg, rgba(0,0,0,0.35) 19.27%, rgba(0,0,0,0) 29.17%), url("https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg");
+	background-size: cover !important;
 }
 
 .header-container--categoryView {
